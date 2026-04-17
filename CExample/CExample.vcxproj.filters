@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="MyVector.c" />
+    <ClCompile Include="MyVectorExample.c" />
+    <ClCompile Include="UBTest.c" />
+    <ClCompile Include="MyVector2.c" />
+    <ClCompile Include="BulletHellSpawnSystem.c" />
+    <ClCompile Include="FunctionPointerExample1.c" />
+    <ClCompile Include="main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyVector.h" />
+    <ClInclude Include="MyVectorExample.h" />
+    <ClInclude Include="UBTest.h" />
+    <ClInclude Include="MyVector2.h" />
+    <ClInclude Include="BulletHellSpawnSystem.h" />
+    <ClInclude Include="FunctionPointerExample1.h" />
+  </ItemGroup>
+</Project>
